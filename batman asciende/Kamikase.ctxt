@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Kamikase\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ mover()
+comment1.text=\r\n\ Mueve\ al\ enemigo\ de\ forma\ que\ persiga\ al\ jugador.\r\n
+comment2.params=
+comment2.target=void\ atacar()
+comment2.text=\r\n\ Ataca\ al\ enemigo.\ Obtiene\ la\ posici\u00F3n\ del\ jugador\ y\ se\ dirige\ hacia\ \u00E9l\ para\r\n\ explotar\ a\ su\ lado.\r\n
+numComments=3

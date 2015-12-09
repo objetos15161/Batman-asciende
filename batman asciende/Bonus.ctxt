@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bonus()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Bonus.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Bonus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ tocoJugador()
+comment2.text=\r\n\ Bonus\ del\ juego\!\!\!\r\n\ Checa\ si\ toco\ al\ jugador\ y\ pone\ la\ energia\ en\ 100.\r\n
+comment3.params=i
+comment3.target=void\ bonus(Batman)
+comment4.params=
+comment4.target=void\ mueve()
+comment4.text=\r\n\ Dependiendo\ de\ la\ direccion\ (dir)\ la\ figura\ se\ mueve.\r\n
+comment5.params=
+comment5.target=void\ tocoBorde()
+comment5.text=\r\n\ Si\ toca\ el\ borde\ el\ circulo\ rebota.\r\n
+numComments=6

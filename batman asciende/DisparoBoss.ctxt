@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=DisparoBoss(int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ DisparoBoss.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ DisparoBoss\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ disparar()
+comment2.text=\r\n\ Checa\ si\ toco\ al\ jugador,\ si\ sali\u00F3\ del\ mundo,\ y\ si\ toco\ a\ un\ disparo\ del\ jugador,\ de\ ser\ \r\n\ as\u00ED\ se\ elimina\ a\ s\u00ED\ mismo.\r\n\ Dependiendo\ de\ la\ direcci\u00F3n\ el\ disparo\ se\ mueve\ en\ l\u00EDnea\ recta\ o\ en\ diagonal.\r\n
+comment3.params=
+comment3.target=void\ invierteDireccion()
+comment3.text=\r\n\ Checa\ si\ la\ bala\ va\ en\ diagonal\ y\ si\ toca\ el\ borde\ arriba\ o\ abajo\ se\ cambia\ de\ \r\n\ direccion.\r\n
+numComments=4

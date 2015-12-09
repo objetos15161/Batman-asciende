@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GeneralBoss()
+comment0.text=\r\n\ Constructor\ de\ la\ clase.\ Se\ inicializa\ las\ variables.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ GeneralBoss\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ Mueve\ al\ GeneralBoss\ en\ el\ mundo.\r\n
+comment3.params=
+comment3.target=void\ atacar()
+comment3.text=\r\n\ Hace\ diferentes\ ataques\ al\ jugador.\r\n
+comment4.params=
+comment4.target=void\ generaEnemigo()
+comment4.text=\r\n\ Genera\ un\ numero\ aleatorio\ para\ crear\ un\ enemigo\ que\ se\ pone\ en\ el\ mundo.\r\n
+comment5.params=
+comment5.target=void\ checaContador()
+comment5.text=\r\n\ Controla\ el\ comprtamiento\ del\ GeneralBoss.\r\n
+comment6.params=s\ sound
+comment6.target=void\ restaSalud(int,\ greenfoot.GreenfootSound)
+comment6.text=\r\n\ Checa\ si\ el\ Genereal\ esta\ en\ la\ pantalla,\ de\ ser\ as\u00ED\ resta\ 's'\ la\ salud.\r\n\ Tambi\u00E9n\ reproduce\ un\ sonido\ indicando\ que\ lo\ golpe\u00F3\ una\ ataque\ del\ jugador.\r\n
+comment7.params=
+comment7.target=int\ getSalud()
+comment7.text=\r\n\ Regresa\ la\ salud\ del\ GenerealBoss.\r\n
+comment8.params=
+comment8.target=void\ saludEsCero()
+comment8.text=\r\n\ Si\ la\ salud\ es\ <\=\ a\ cero\ la\ nave\ explota\ y\ desaparece.\r\n
+numComments=9

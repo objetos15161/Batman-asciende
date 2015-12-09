@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Coronel\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ mover()
+comment1.text=\r\n\ Mueve\ al\ Coronel\ en\ linea\ recta,\ si\ el\ Coronel\ traspasa\ el\ l\u00EDmite\ derecho\ del\ mundo\r\n\ cambia\ su\ posici\u00F3n\ en\ x\ a\ 5000\ para\ que\ vuelva\ a\ aparecer\ en\ el\ mundo.\r\n
+comment2.params=
+comment2.target=void\ atacar()
+comment2.text=\r\n\ Pone\ bombas\ en\ el\ mundo\ cada\ 2\ segundos.\r\n
+numComments=3

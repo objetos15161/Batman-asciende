@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BotonHelp()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ BotonHelp.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ BotonHelp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ click()
+comment2.text=\r\n\ Al\ dar\ clic\ en\ el\ boton\ aparece\ la\ ayuda.\r\n
+numComments=3

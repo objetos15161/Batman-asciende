@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=tipo
+comment0.target=Explosion(int)
+comment0.text=\r\n\ \ Si\ tipo\=\=1\ exploto\ nave;\ tipo\=\=2\ balaVSironman;\ tipo\=\=3\ ataqueVSataque\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Explosion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ explota()
+comment2.text=\r\n\ Cuando\ explota\ una\ nave\ aparece\ una\ imagen,\ dura\ 1\ segundo\ y\ desaparece.\r\n
+numComments=3

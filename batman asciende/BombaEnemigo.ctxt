@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BombaEnemigo()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ BombaEnemigo.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ BombaEnemigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ disparar()
+comment2.text=\r\n\ Checa\ si\ toca\ al\ jugador,\ si\ es\ as\u00ED\ le\ resta\ salud\ y\ de\ borra\ a\ s\u00ED\ mismo.\r\n\ Checa\ si\ sali\u00F3\ del\ mundo,\ si\ es\ as\u00ED\ se\ elimina\ a\ s\u00ED\ mismo.\r\n\ Checa\ si\ toco\ a\ un\ disparo\ del\ jugador,\ si\ es\ as\u00ED\ se\ eliminan\ ambos\ objetos.\r\n\ Y\ se\ mueve\ por\ el\ mundo.\r\n
+comment3.params=
+comment3.target=void\ movimiento()
+comment3.text=\r\n\ Cuando\ se\ crea\ una\ bomba\ en\ el\ mundo,\ se\ espera\ un\ lapso\ de\ tiempo\ de\ 10\ segundos\r\n\ y\ al\ transcurrido\ ese\ tiempo\ la\ bomba\ comienza\ a\ seguir\ al\ jugador.\r\n
+numComments=4
